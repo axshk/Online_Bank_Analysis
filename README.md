@@ -88,11 +88,9 @@ pip install kafka-python
 
 ## CONTRIBUTERS
 
-* SIDHANT SEHGAL
-* ABHILASH REDDY
-* AKHIL
-* ANAND KUMAR
-* VENKATESH VENKAT
+* Aashutosh Ucholiya
+* Hemant Bansal
+* Meenal Patidar
 
 ## License
 
